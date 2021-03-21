@@ -1,0 +1,1 @@
+# Chord SimulatorA GUI will be displayed by running this python program. It can help you play chords easily.Press 1~6 to choose a chord, and a, s, d, f, space button to play different notes in that chord.You can also watch the demo video to learn how to play it.
